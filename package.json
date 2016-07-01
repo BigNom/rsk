@@ -73,6 +73,7 @@
     "extend": "^3.0.0",
     "file-loader": "^0.8.5",
     "gaze": "^1.0.0",
+    "git-push": "^0.1.1",
     "git-repository": "^0.1.4",
     "glob": "^7.0.3",
     "jade-loader": "^0.8.0",
