@@ -21,7 +21,7 @@ function Header() {
         <Navigation className={s.nav} />
         <Link className={s.brand} to="/">
           <img src={logoUrl} width="38" height="38" alt="React" />
-          <span className={s.brandTxt}>Reactive Web Designs</span>
+          <span className={s.brandTxt}>Reactive Web Designs Perth</span>
         </Link>
         <div className={s.banner}>
           <h1 className={s.bannerTitle}>Reactive</h1>
